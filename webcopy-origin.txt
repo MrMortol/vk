@@ -1,0 +1,32 @@
+Uri: https://m.vk.com/
+File Name: c:\Downloaded Web Sites\m.vk.com\index.htm
+Content Type: text/html
+
+Uri: https://m.vk.com/images/icons/favicons/fav_logo.ico?8
+File Name: c:\Downloaded Web Sites\m.vk.com\images\icons\favicons\fav_logo.ico
+Content Type: image/x-icon
+
+Uri: https://m.vk.com/images/icons/pwa/favicon_32.png?12
+File Name: c:\Downloaded Web Sites\m.vk.com\images\icons\pwa\favicon_32.png
+Content Type: image/png
+
+Uri: https://m.vk.com/images/icons/pwa/apple/default.png?14
+File Name: c:\Downloaded Web Sites\m.vk.com\images\icons\pwa\apple\default.png
+Content Type: image/png
+
+Uri: https://m.vk.com/join
+File Name: c:\Downloaded Web Sites\m.vk.com\join.html
+Content Type: text/html
+
+Uri: https://m.vk.com/settings?act=select_lang
+File Name: c:\Downloaded Web Sites\m.vk.com\settings.html
+Content Type: text/html
+
+Uri: https://m.vk.com/login
+File Name: c:\Downloaded Web Sites\m.vk.com\login.html
+Content Type: text/html
+
+Uri: https://m.vk.com/settings?act=select_lang&from=1e7acc2am9pbg--
+File Name: c:\Downloaded Web Sites\m.vk.com\settings-1.html
+Content Type: text/html
+
